@@ -1,4 +1,4 @@
-Android-ListView-Adaptor-demo
+Android-ListView-Adapter-demo
 =============================
 
-Android demo by using ListView Adaptor
+Android demo by using ListView Adapter
